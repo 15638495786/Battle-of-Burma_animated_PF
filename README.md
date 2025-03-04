@@ -1,4 +1,2 @@
 # Battle-of-Burma
-This folder provides HTML files for the Battle of Burma article.
-
-Online demo
+This folder contains an animated file showing the total P. falciparum case numbers for the Battle of Burma article.
